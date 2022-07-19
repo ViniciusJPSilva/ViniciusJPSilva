@@ -12,7 +12,14 @@
 <hr>
 
   ### Contatos:
+  
+  - E-mail: viniciusjps15@gmail.com
+  - WhatsApp: <a href="https://wa.me/5532984589166">Não clique aqui!</a>
 
+<hr>
+
+  ### Redes:
+  
 <div>
   <a href="https://instagram.com/viniciusjpsilva" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
