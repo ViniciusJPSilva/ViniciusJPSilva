@@ -14,7 +14,7 @@
   ### Contatos:
   
   - E-mail: viniciusjps15@gmail.com
-  - WhatsApp: <a href="https://wa.me/5532984589166">Não clique aqui!</a>
+  - WhatsApp: <a href="https://wa.me/5532984589166" target="_blank">Não clique aqui!</a>
 
 <hr>
 
