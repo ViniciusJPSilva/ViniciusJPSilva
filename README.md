@@ -1,7 +1,7 @@
 ## **Opa, bão? 👋**
 
    - Técnico em Informática
-   - 1° período do Tecnólogo em Sistemas para Internet
+   - 2° período do Tecnólogo em Sistemas para Internet
 
 <hr>
 
