@@ -6,8 +6,7 @@
 <hr>
 
   ### Linguagens que mais utilizo:
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusJPSilva&layout=radical)](https://github.com/ViniciusJPSilva/github-readme-stats)
+  <img height = "180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusJPSilva&layout=compact&theme=radical"/>
 
 <hr>
 
