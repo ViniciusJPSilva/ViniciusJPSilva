@@ -7,7 +7,7 @@
 
   ### Linguagens que mais utilizo:
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusJPSilva&layout=compact)](https://github.com/ViniciusJPSilva/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusJPSilva&layout=radical)](https://github.com/ViniciusJPSilva/github-readme-stats)
 
 <hr>
 
