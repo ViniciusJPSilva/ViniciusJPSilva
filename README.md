@@ -6,7 +6,7 @@
 <hr>
 
   ### Linguagens que mais utilizo:
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusJPSilva&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusJPSilva&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
