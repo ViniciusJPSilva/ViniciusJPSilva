@@ -10,7 +10,7 @@
 
 <hr>
 
- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ViniciusJPSilva&show_icons=true)
+ ![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
  
  <hr>
 
