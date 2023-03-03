@@ -10,7 +10,7 @@
 
 <hr>
 
- ![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dracula&show_icons=true)
+ ![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusJPSilva&theme=dracula&show_icons=true)
  
  <hr>
 
