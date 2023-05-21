@@ -1,7 +1,7 @@
 ## **Opa, bão? 👋**
 
    - Técnico em Informática
-   - 3° período do Tecnólogo em Sistemas para Internet
+   - 3° período do curso Tecnologia em Sistemas para Internet
 
 <hr>
 
