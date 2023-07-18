@@ -2,15 +2,6 @@
 
    - Técnico em Informática
    - 4° período do curso Tecnologia em Sistemas para Internet
-
-<hr>
-
-  ### Linguagens que mais utilizo:
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusJPSilva&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<hr>
-
- ![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusJPSilva&theme=dracula&show_icons=true)
  
  <hr>
 
