@@ -1,16 +1,16 @@
 ## **Opa, bão? 👋**
 
-   - Técnico em Informática
-   - 4° período do curso Tecnologia em Sistemas para Internet
+   - Computer Technician
+   - 4th semester of the Internet Systems Technology
 
 <hr>
 
-  ### Contatos:
+  ### Contact information:
   
   - E-mail: viniciusjps15@gmail.com
-  - WhatsApp: <a href="https://wa.me/5532984589166" target="_blank">Não clique aqui!</a>
+  - WhatsApp: <a href="https://wa.me/5532984589166" target="_blank">Don't click here!</a>
 
-  ### Redes:
+  ### Social:
   
 <div>
   <a href="https://www.linkedin.com/in/vinícius-pires-401592214" target="_blank">
