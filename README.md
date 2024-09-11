@@ -1,7 +1,7 @@
 ## **Opa, bão? 👋**
 
    - Computer Technician
-   - 5th semester of the Technology in Internet Systems
+   - 6th semester of the Technology in Internet Systems
 
 <hr>
 
