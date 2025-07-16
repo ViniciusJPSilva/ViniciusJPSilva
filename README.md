@@ -1,4 +1,4 @@
-<h1 align="left">Opa, bão? 👋</h1>
+<h1 align="left">Opa, bão?</h1>
 
 ###
 
