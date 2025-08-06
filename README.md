@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Computer Technician<br>6th semester of the Technology in Internet Systems</p>
+<p align="left">Computer Technician<br>Graduated in Technology in Internet Systems</p>
 
 ###
 
