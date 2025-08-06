@@ -18,7 +18,7 @@
 
 ###
 
-<a href="mailto:viniciusjps15@gmail.com">viniciusjps15@gmail.com</a><br>
+<a href="mailto:silva.vinicius.pires@gmail.com">silva.vinicius.pires@gmail.com</a><br>
 <a href="https://wa.me/5532984589166" target="_blank" style="text-decoration: none;">WhatsApp</a><br>
 <a href="https://www.linkedin.com/in/viniciusjpsilva/" target="_blank">LinkedIn</a>
 
