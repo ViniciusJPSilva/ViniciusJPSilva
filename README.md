@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Graduated in Technology in Internet Systems<br>Computer Technician</p>
+<p align="left">Graduated in Technology in Internet Systems</p>
 
 ###
 
